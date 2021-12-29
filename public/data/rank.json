@@ -1,0 +1,25 @@
+[
+    { "local": "北京市", "value": 9855 },
+    { "local": "上海市", "value": 10210 },
+    { "local": "湖北省", "value": 7562 },
+    { "local": "广东省", "value": 11812 },
+    { "local": "广西省", "value": 5230 },
+    { "local": "甘肃省", "value": 3251 },
+    { "local": "青海省", "value": 2153 },
+    { "local": "宁夏省", "value": 1235 },
+    { "local": "新疆省", "value": 4261 },
+    { "local": "西藏省", "value": 2563 },
+    { "local": "四川省", "value": 8951 },
+    { "local": "重庆市", "value": 8624 },
+    { "local": "贵州省", "value": 4235 },
+    { "local": "山西省", "value": 4251 },
+    { "local": "陕西省", "value": 7146 },
+    { "local": "内蒙古", "value": 5451 },
+    { "local": "安徽省", "value": 5624 },
+    { "local": "浙江省", "value": 6985 },
+    { "local": "福建省", "value": 7514 },
+    { "local": "山东省", "value": 6954 },
+    { "local": "江苏省", "value": 6548 },
+    { "local": "河南省", "value": 5124 }
+
+]

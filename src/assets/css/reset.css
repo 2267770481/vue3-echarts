@@ -1,0 +1,11 @@
+body,
+#app {
+    width: 100%;
+    margin: 0;
+    height: calc(100vh);
+}
+
+h4,
+p {
+    margin: 0px;
+}

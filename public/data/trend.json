@@ -1,0 +1,148 @@
+{
+  "map": {
+    "title": "地区销量趋势",
+    "data":[
+      {"name": "北京", 
+        "data": [
+          {"month": "一月", "value": 8592},
+          {"month": "二月", "value": 10254},
+          {"month": "三月", "value": 7593},
+          {"month": "四月", "value": 6254},
+          {"month": "五月", "value": 4546},
+          {"month": "六月", "value": 6254},
+          {"month": "七月", "value": 5548},
+          {"month": "八月", "value": 5462},
+          {"month": "九月", "value": 6578},
+          {"month": "十月", "value": 3548},
+          {"month": "十一月", "value": 12563},
+          {"month": "十二月", "value": 2354}
+        ]
+      },
+      {"name": "上海", 
+        "data": [
+          {"month": "一月", "value": 8452},
+          {"month": "二月", "value": 11254},
+          {"month": "三月", "value": 6524},
+          {"month": "四月", "value": 5842},
+          {"month": "五月", "value": 6524},
+          {"month": "六月", "value": 5896},
+          {"month": "七月", "value": 6542},
+          {"month": "八月", "value": 6526},
+          {"month": "九月", "value": 5842},
+          {"month": "十月", "value": 4596},
+          {"month": "十一月", "value": 13542},
+          {"month": "十二月", "value": 3526}
+        ]
+      },
+      {"name": "广州", 
+        "data": [
+          {"month": "一月", "value": 5682},
+          {"month": "二月", "value": 8425},
+          {"month": "三月", "value": 6254},
+          {"month": "四月", "value": 2354},
+          {"month": "五月", "value": 6354},
+          {"month": "六月", "value": 3653},
+          {"month": "七月", "value": 5482},
+          {"month": "八月", "value": 4256},
+          {"month": "九月", "value": 5246},
+          {"month": "十月", "value": 2564},
+          {"month": "十一月", "value": 8246},
+          {"month": "十二月", "value": 5264}
+        ]
+      },
+      {"name": "深圳", 
+        "data": [
+          {"month": "一月", "value": 9546},
+          {"month": "二月", "value": 12453},
+          {"month": "三月", "value": 9652},
+          {"month": "四月", "value": 8452},
+          {"month": "五月", "value": 6854},
+          {"month": "六月", "value": 7596},
+          {"month": "七月", "value": 6652},
+          {"month": "八月", "value": 6528},
+          {"month": "九月", "value": 7562},
+          {"month": "十月", "value": 5862},
+          {"month": "十一月", "value": 15235},
+          {"month": "十二月", "value": 5623}
+        ]
+      }
+    ]
+  },
+  "seller": {
+    "title": "商家销量趋势",
+    "data":[
+      {
+        "name": "商家一",
+        "data": [
+          {"month":"一月", "value": 526},
+          {"month":"二月", "value": 852},
+          {"month":"三月", "value": 362},
+          {"month":"四月", "value": 123},
+          {"month":"五月", "value": 245},
+          {"month":"六月", "value": 362},
+          {"month":"七月", "value": 632},
+          {"month":"八月", "value": 242},
+          {"month":"九月", "value": 293},
+          {"month":"十月", "value": 563},
+          {"month":"十一月", "value": 353},
+          {"month":"十二月", "value": 125}
+        ]
+      },
+      {
+        "name": "商家二",
+        "data": [
+          {"month":"一月", "value": 362},
+          {"month":"二月", "value": 452},
+          {"month":"三月", "value": 459},
+          {"month":"四月", "value": 236},
+          {"month":"五月", "value": 126},
+          {"month":"六月", "value": 50},
+          {"month":"七月", "value": 156},
+          {"month":"八月", "value": 148},
+          {"month":"九月", "value": 265},
+          {"month":"十月", "value": 201},
+          {"month":"十一月", "value": 563},
+          {"month":"十二月", "value": 253}
+        ]
+      },
+      {
+        "name": "商家三",
+        "data": [
+          {"month":"一月", "value": 236},
+          {"month":"二月", "value": 632},
+          {"month":"三月", "value": 214},
+          {"month":"四月", "value": 236},
+          {"month":"五月", "value": 214},
+          {"month":"六月", "value": 206},
+          {"month":"七月", "value": 293},
+          {"month":"八月", "value": 271},
+          {"month":"九月", "value": 362},
+          {"month":"十月", "value": 426},
+          {"month":"十一月", "value": 320},
+          {"month":"十二月", "value": 159}
+        ]
+      },
+      {
+        "name": "商家四",
+        "data": [
+          {"month":"一月", "value": 521},
+          {"month":"二月", "value": 236},
+          {"month":"三月", "value": 279},
+          {"month":"四月", "value": 158},
+          {"month":"五月", "value": 349},
+          {"month":"六月", "value": 271},
+          {"month":"七月", "value": 196},
+          {"month":"八月", "value": 248},
+          {"month":"九月", "value": 510},
+          {"month":"十月", "value": 369},
+          {"month":"十一月", "value": 482},
+          {"month":"十二月", "value": 265}
+        ]
+      }
+    ]
+  },
+  "type": [
+    {"type": "map", "text": "地区销量趋势"},
+    {"type": "seller", "text": "商家销量趋势"}
+  ]
+}

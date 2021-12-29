@@ -1,0 +1,32 @@
+[{
+        "name": "服装",
+        "data": [
+            { "name": "女士上衣", "value": 1203, "children": [{ "name": "T恤", "value": 548 }, { "name": "外套", "value": 448 }, { "name": "防晒衣", "value": 148 }] },
+            { "name": "女士裤子", "value": 1952, "children": [{ "name": "裙子", "value": 548 }, { "name": "牛仔裤", "value": 448 }, { "name": "短裤", "value": 148 }] },
+            { "name": "女鞋", "value": 1024, "children": [{ "name": "高跟鞋", "value": 548 }, { "name": "外套", "value": 448 }, { "name": "防晒衣", "value": 148 }] },
+            { "name": "男士上衣", "value": 253, "children": [{ "name": "T恤", "value": 548 }, { "name": "外套", "value": 448 }, { "name": "防晒衣", "value": 148 }] },
+            { "name": "男士裤子", "value": 453, "children": [{ "name": "T恤", "value": 548 }, { "name": "外套", "value": 448 }, { "name": "防晒衣", "value": 148 }] },
+            { "name": "男鞋", "value": 352, "children": [{ "name": "T恤", "value": 548 }, { "name": "外套", "value": 448 }, { "name": "防晒衣", "value": 148 }] }
+        ]
+    },
+    {
+        "name": "电子产品",
+        "data": [
+            { "name": "手机", "value": 1022, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "平板", "value": 530, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "电脑", "value": 892, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "手表", "value": 621, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "耳机", "value": 810, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] }
+        ]
+    },
+    {
+        "name": "护肤品",
+        "data": [
+            { "name": "洗面奶", "value": 820, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "爽肤水", "value": 712, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "补水精华", "value": 614, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "面膜", "value": 1203, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] },
+            { "name": "面霜", "value": 721, "children": [{ "name": "华为", "value": 548 }, { "name": "小米", "value": 448 }, { "name": "苹果", "value": 148 }] }
+        ]
+    }
+]
